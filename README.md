@@ -13,7 +13,15 @@
       - python arithmetic (plus, minus, times, divide, moduluo)
       - python functions & functional programming
       
-### 2. SQL
+### 2. Github + Markdown
+#### we will be teaching how to store codes on github and manage documentation using markdown
+      - How to signup
+      - How to create new repository
+      - How to update repository
+      - How to delete repository
+      - How to update readme file with markdown syntax
+      
+### 3. SQL
 #### we will be teaching SQLlite in this course
       - python data types (string, integer, float, boolean, list, dict)
       - python if/else
