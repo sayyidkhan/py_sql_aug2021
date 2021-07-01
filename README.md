@@ -32,7 +32,7 @@
       - python functions & functional programming
       
 # Test
-#### 0.5 days allocated for revision**
+#### 0.5 days allocated for revision*
 - To Cover revision of all topics covered (python only)
 
 #### No of test
