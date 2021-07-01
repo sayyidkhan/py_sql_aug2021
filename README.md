@@ -32,8 +32,9 @@
       - python functions & functional programming
       
 # Test
-Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions)
-SQL Test - 30 Minutes (10 Questions, 10 MCQ questions)
+- To Cover revision of all topics covered (python only) **0.5 days**
+- Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions)
+- SQL Test - 30 Minutes (10 Questions, 10 MCQ questions)
       
 ###### Course Materials created by the **Race Academy**
 ###### Course Materials moderated by **Sayyid Khan**
