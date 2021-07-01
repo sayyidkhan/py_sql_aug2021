@@ -32,7 +32,10 @@
       - python functions & functional programming
       
 # Test
-- To Cover revision of all topics covered (python only) **0.5 days**
+#### 0.5 days allocated for revision**
+- To Cover revision of all topics covered (python only)
+
+#### No of test
 - Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions)
 - SQL Test - 30 Minutes (10 Questions, 10 MCQ questions)
       
