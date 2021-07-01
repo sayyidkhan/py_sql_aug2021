@@ -6,7 +6,7 @@
 ## course outline
 
 ### 1. python foundation
-##### Tentative No of Days to cover topic: 3.5 Days
+##### Tentative No of Days to cover topic: 3.5 Days (Day 1 - 4)
 #### we will be teaching basic python in this course.
       - python data types (string, integer, float, boolean, list, dict)
       - python if/else
@@ -15,7 +15,7 @@
       - python functions & functional programming
       
 ### 2. Github + Markdown
-##### Tentative No of Days to cover topic: 0.5 Days
+##### Tentative No of Days to cover topic: 0.5 Days (Day 4)
 #### we will be teaching how to store codes on github and manage documentation using markdown
       - How to signup
       - How to create new repository
@@ -24,7 +24,7 @@
       - How to update readme file with markdown syntax
       
 ### 3. SQL
-##### Tentative No of Days to cover topic: 1 Day
+##### Tentative No of Days to cover topic: 1 Day (Day 6)
 #### we will be teaching SQLlite in this course
       - python data types (string, integer, float, boolean, list, dict)
       - python if/else
@@ -33,11 +33,11 @@
       
 # Test
 #### 0.5 days allocated for revision*
-- To Cover revision of all topics covered (python only)
+- To Cover revision of all topics covered (python only) **day 5**
 
 #### No of test
-- Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions)
-- SQL Test - 30 Minutes (10 Questions, 10 MCQ questions)
+- Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions) **day 5**
+- SQL Test - 30 Minutes (10 Questions, 10 MCQ questions) **day 6**
       
 ###### Course Materials created by the **Race Academy**
 ###### Course Materials moderated by **Sayyid Khan**
