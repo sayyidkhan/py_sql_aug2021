@@ -33,11 +33,11 @@
       
 # Test
 #### 0.5 days allocated for revision*
-- To Cover revision of all topics covered (python only) **day 5**
+- To Cover revision of all topics covered (python only) **(day 5)**
 
 #### No of test
-- Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions) **day 5**
-- SQL Test - 30 Minutes (10 Questions, 10 MCQ questions) **day 6**
+- Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions) **(day 5)**
+- SQL Test - 30 Minutes (10 Questions, 10 MCQ questions) **(day 6)**
       
 ###### Course Materials created by the **Race Academy**
 ###### Course Materials moderated by **Sayyid Khan**
