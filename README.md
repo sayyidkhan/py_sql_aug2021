@@ -39,5 +39,5 @@
 - Python Test - 45 Minutes (15 Questions, 2 Open Ended, 13 MCQ questions) **(day 5)**
 - SQL Test - 30 Minutes (10 Questions, 10 MCQ questions) **(day 6)**
       
-###### Course Materials created by the **Race Academy**
+###### Course Materials created by the **Ace Ninja Pte Ltd**
 ###### Course Materials moderated by **Sayyid Khan**
