@@ -1,4 +1,7 @@
 # Python + SQL August 2021 Batch - Learn Python + SQL
+
+![image](https://user-images.githubusercontent.com/22993048/124384202-b1f18280-dd02-11eb-9828-3c6d40cd410c.png)
+
 #### pre-requisites for the course:
 1. have **jupyter notebook** installed with the **anaconda framework** or
 2. know how to setup google collab
