@@ -20,7 +20,7 @@
 ### 2. Github + Markdown
 ##### Tentative No of Days to cover topic: 0.5 Days (Day 4)
 
-##### Tutorial Links
+#### Tutorial Links
 - 8 Mins tutorial on github https://www.youtube.com/watch?v=iv8rSLsi1xo
 - Markdown cheatsheet https://www.markdownguide.org/cheat-sheet/
 
