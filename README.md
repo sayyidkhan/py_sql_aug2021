@@ -19,12 +19,18 @@
       
 ### 2. Github + Markdown
 ##### Tentative No of Days to cover topic: 0.5 Days (Day 4)
+
+##### Tutorial Links
+- 8 Mins tutorial on github https://www.youtube.com/watch?v=iv8rSLsi1xo
+- Markdown cheatsheet https://www.markdownguide.org/cheat-sheet/
+
+
 #### we will be teaching how to store codes on github and manage documentation using markdown
       - How to signup
       - How to create new repository
       - How to update repository
       - How to delete repository
-      - How to update readme file with markdown syntax
+      - How to update readme file with markdown syntax (use markdown cheatsheet to get answers on how to update)
       
 ### 3. SQL
 ##### Tentative No of Days to cover topic: 1 Day (Day 6)
