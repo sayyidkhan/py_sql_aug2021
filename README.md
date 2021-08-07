@@ -22,8 +22,8 @@
 
 #### Tutorial Links
 - 8 Mins tutorial on github https://www.youtube.com/watch?v=iv8rSLsi1xo
-- Markdown cheatsheet **type1: ** [markdownguide](https://www.markdownguide.org/cheat-sheet/)
-- Markdown cheatsheet **type2: ** [guides.github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- Markdown cheatsheet **type1:** [markdownguide](https://www.markdownguide.org/cheat-sheet/)
+- Markdown cheatsheet **type2:** [guides.github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 #### we will be teaching how to store codes on github and manage documentation using markdown
       - How to signup
