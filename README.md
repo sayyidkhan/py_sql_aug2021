@@ -24,6 +24,7 @@
 - 8 Mins tutorial on github https://www.youtube.com/watch?v=iv8rSLsi1xo
 - Markdown cheatsheet **type1:** [markdownguide](https://www.markdownguide.org/cheat-sheet/)
 - Markdown cheatsheet **type2:** [guides.github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- **bonus:** Readme.MD builder: [https://readme.so] <- will not teach this, but as a bonus, it is a markdown generator
 
 #### we will be teaching how to store codes on github and manage documentation using markdown
       - How to signup
